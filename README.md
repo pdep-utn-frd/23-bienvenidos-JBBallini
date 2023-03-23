@@ -11,3 +11,5 @@ Entres mis juegos favoritos se encuentran:
 - The Elder Scrolls: Skyrim
 
 Tambien me gusta mucho crear memes referenciados a videojuegos o amigos y editar videos.
+
+![foto](https://github.com/pdep-utn-frd/23-bienvenidos-JBBallini/blob/main/Foto_mia.jpeg)
