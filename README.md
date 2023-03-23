@@ -1,4 +1,6 @@
-Me llamo Juan Bautista Ballini
+##SOBRE MI 
+
+Me llamo **Juan Bautista Ballini**
 
 Entre mis hobbies se encuentran ver peliculas y leer libros de ciencia ficción y terror. Pero la mayor parte de mi tiempo libre la uso en jugar videojuegos. 
 Entres mis juegos favoritos se encuentran:
